@@ -241,7 +241,7 @@ public class mysqlaccess {
 		System.out.println("No path exists between vertices " + src + " and " + dest);
 	}*/
    
-   g.printallpaths("RTO CIRCLE","PREMCHANDNAGAR");
+   g.printallpaths("GODASAR GAM","JUNA WADAJ");
    //g.p("ASTODIA CHAKLA");
    //g.print();
   rs.close();
